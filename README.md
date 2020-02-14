@@ -7,10 +7,6 @@
 ![Book Cover](https://res.cloudinary.com/hyxnzrqw0/image/upload/v1581668967/oyqrq1nvonllfeqa8nhh.jpg)
 
 
-![](demo.png)
-
-[Online Bookstore Demo](https://damp-garden-50773.herokuapp.com/)
-
 ## Introduction
 
 ### Learn how to build production-ready websites with Python & Django.
@@ -54,4 +50,16 @@ We will build from scratch an online bookstore that supports **payments via Stri
 * [Heroku Django store your uploaded media files for free](https://www.dothedev.com/blog/heroku-django-store-your-uploaded-media-files-for-free/)
 * [Cloudinary Django Repo for example reference](https://github.com/mutaimwiti/cloudinary_app)
 * [Django documentation](https://docs.djangoproject.com/en/3.0/)
+
+## App Demo
+
+[Online Bookstore Demo](https://damp-garden-50773.herokuapp.com/)
+
+For demo purposes, please use the following credentials:
+
+**login email:** testuser@email.com
+
+**password:** testpass123
+
+![](demo.png)
 
