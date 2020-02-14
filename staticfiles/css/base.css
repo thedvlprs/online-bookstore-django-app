@@ -1,0 +1,13 @@
+h1 {
+  color: #33c481;
+}
+
+h3 {
+  color: #ff5733;
+}
+
+.bookcover {
+  height: 300px;
+  width: auto;
+  padding-bottom: 20px;
+}
